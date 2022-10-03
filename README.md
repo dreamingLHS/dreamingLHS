@@ -8,9 +8,9 @@
   ⌨ **I can use** 🖱
   ------
   
-  <img src="https://img.shields.io/badge/Photoshop-#31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
   
-  <img src="https://img.shields.io/badge/Word-#2B579A?style=flat-square&logo=Microsoft Word&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=Microsoft Word&logoColor=white"/></a>
   
   📰 **My Portfolios** 📰
   ------
