@@ -1,5 +1,6 @@
-<div align="center"> 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=IT's%20ISALA's%20GitHub&fontSize=75&animation=twinkling)
+
+<div align="center"> 
 
 💻 **Game designer** 💻 
 
