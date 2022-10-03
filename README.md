@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HI%20I'm%20ISALA&fontSize=75&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=IT's%20ISALA's%20GitHub&fontSize=75&animation=twinkling)
 ### Hi there 👋
 💻 **Game designer**
 
