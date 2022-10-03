@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HI%20I'm%20ISALA&fontSize=75&animation=twinkling)
 ### Hi there 👋
+💻 **Game designer**
 
 <!--
 **sala1011/sala1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
