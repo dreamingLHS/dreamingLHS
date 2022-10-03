@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HI%20I'm%20ISALA&fontSize=75&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient&color=0:ff3784,100:8A4B08&height=300&section=header&text=HI%20I'm%20ISALA&fontSize=75&animation=twinkling)
 ### Hi there 👋
 
 <!--
