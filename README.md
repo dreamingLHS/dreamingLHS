@@ -12,6 +12,10 @@
   
   <img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=Microsoft Word&logoColor=white"/></a>
   
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a>
+  
+  <img src="https://img.shields.io/badge/Powerpoint-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/></a>
+  
   📰 **My Portfolios** 📰
   ------
   
