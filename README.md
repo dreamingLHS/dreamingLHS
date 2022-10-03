@@ -2,10 +2,23 @@
 
 <div align="center"> 
 
-💻 **Game designer** 💻 
+  💻 **Full of imagination Game designer** 💻 
 ======
+  
+  ⌨ **I can use** 🖱
+  ------
+  
+  <img src="https://img.shields.io/badge/Photoshop-#31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
+  
+  <img src="https://img.shields.io/badge/Word-#2B579A?style=flat-square&logo=Microsoft Word&logoColor=white"/></a>
+  
+  📰 **My Portfolios** 📰
+  ------
+  
+  <a href="http://ggm.gondr.net/user/profile/25"><img src="https://img.shields.io/badge/📰Portfolio-222324?style=for-the-badge"></a>
+  
+   **GitHub** 
+  ------
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sala1011&theme=omni&show_icons=true)
 
-<a href="http://ggm.gondr.net/user/profile/25"><img src="https://img.shields.io/badge/Portfolio-222324?style=for-the-badge"></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sala1011&theme=omni&show_icons=true)
 </div>
