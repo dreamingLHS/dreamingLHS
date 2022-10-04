@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F781F3&height=150&section=header&text=사라의%20GitHub에%20오신%20걸%20환영합니다&fontSize=45&animation=twinkling)
 
 <div align="center"> 
+  <a href="https://github.com/sala1011/sala1011/blob/main/README-KR.md">한국어</a>
+  .
+  <a href="https://github.com/sala1011/sala1011/blob/main/README.md">english</a>
 
   💻 **상상력이 넘치는 게임 기획자** 💻 
 ======
