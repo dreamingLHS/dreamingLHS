@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F781F3&height=150&section=header&text=Welcome%20To%20ISALA's%20GitHub&fontSize=45&animation=twinkling)
 
 <div align="center"> 
-  <a href="/main/README-KR.md">한국어</a>
+  <a href="https://github.com/sala1011/sala1011/blob/main/README-KR.md">한국어</a>
   .
   <a href="README_EN.md">english</a>
 
