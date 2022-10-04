@@ -16,6 +16,8 @@
   
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
   
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=Aseprite&logoColor=black"/></a>
+  
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   
   <img src="https://img.shields.io/badge/Unity-F0F0F0?style=flat-square&logo=Unity&logoColor=black"/></a>
