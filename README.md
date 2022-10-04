@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradint&height=300&section=header&text=IT's%20ISALA's%20GitHub&fontSize=50&animation=twinkling&rotate=20&fontAlignY=30&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F781F3&height=300&section=header&text=Welcome%20To%20ISALA's%20GitHub&fontSize=55)
 
 <p align="center">
     <a href="/docs/readme_fr.md">Français </a>
@@ -51,4 +51,4 @@
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=F781F3&height=200&section=footer)
