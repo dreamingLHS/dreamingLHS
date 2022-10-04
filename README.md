@@ -37,7 +37,6 @@
 
    **Contact On** 
   ------
-  
-  <a href="gustj051011@gmail">📧Email</a>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustj051011@gmail.com)](mailto:gustj051011@gmail.com)
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F781F3&height=150&section=footer)
