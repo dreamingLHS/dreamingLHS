@@ -1,26 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F781F3&height=300&section=header&text=Welcome%20To%20ISALA's%20GitHub&fontSize=55)
-
-<p align="center">
-    <a href="/docs/readme_fr.md">Français </a>
-    ·
-    <a href="/docs/readme_cn.md">简体中文</a>
-    ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
-    <a href="/docs/readme_de.md">Deutsch</a>
-    ·
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-    .
-    <a href="/docs/readme_nl.md">Nederlands</a>
-    .
-    <a href="/docs/readme_np.md">नेपाली</a>
-  </p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=F781F3&height=150&section=header&text=Welcome%20To%20ISALA's%20GitHub&fontSize=45&animation=twinkling)
 
 <div align="center"> 
 
@@ -47,8 +25,19 @@
   
    **GitHub** 
   ------
+  </div>
+  <div align="right"> 
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsala1011&count_bg=%23EB70FF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=ISALA&edge_flat=false"/></a>
+  </div>
+  <div align="left"> 
+    
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sala1011&theme=omni&show_icons=true)
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=F781F3&height=200&section=footer)
+   **Contact On** 
+  ------
+  
+  <a href="gustj051011@gmail">📧Email</a>
+  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=F781F3&height=150&section=footer)
