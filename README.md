@@ -1,4 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=IT's%20ISALA's%20GitHub&fontSize=50&animation=twinkling&rotate=20&fontAlignY=30&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradint&height=300&section=header&text=IT's%20ISALA's%20GitHub&fontSize=50&animation=twinkling&rotate=20&fontAlignY=30&fontAlign=70)
+
+<p align="center">
+    <a href="/docs/readme_fr.md">Français </a>
+    ·
+    <a href="/docs/readme_cn.md">简体中文</a>
+    ·
+    <a href="/docs/readme_es.md">Español</a>
+    ·
+    <a href="/docs/readme_de.md">Deutsch</a>
+    ·
+    <a href="/docs/readme_ja.md">日本語</a>
+    ·
+    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
+    ·
+    <a href="/docs/readme_it.md">Italiano</a>
+    ·
+    <a href="/docs/readme_kr.md">한국어</a>
+    .
+    <a href="/docs/readme_nl.md">Nederlands</a>
+    .
+    <a href="/docs/readme_np.md">नेपाली</a>
+  </p>
 
 <div align="center"> 
 
@@ -28,3 +50,5 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sala1011&theme=omni&show_icons=true)
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
