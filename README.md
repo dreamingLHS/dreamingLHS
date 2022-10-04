@@ -37,7 +37,7 @@
 
    **Contact On** 
   ------
-  <a href="gustj051011@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?&logo=Gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new"><img src="https://img.shields.io/badge/Gmail-EA4335?&logo=Gmail&logoColor=white&style=for-the-badge"></a>
   <a href="https://open.kakao.com/o/sMSQ0IFe"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?&logo=KakaoTalk&logoColor=white&style=for-the-badge"></a>
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F781F3&height=150&section=footer)
