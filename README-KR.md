@@ -3,7 +3,7 @@
 <div align="center"> 
   <a href="https://github.com/sala1011/sala1011/blob/main/README-KR.md">한국어</a>
   .
-  <a href="https://github.com/sala1011/sala1011/blob/main/README.md">english</a>
+  <a href="https://github.com/sala1011/sala1011/blob/main/README.md">English</a>
 
   💻 **상상력이 넘치는 게임 기획자** 💻 
 ======
