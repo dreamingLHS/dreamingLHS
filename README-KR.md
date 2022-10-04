@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Unity-F0F0F0?style=flat-square&logo=Unity&logoColor=black"/></a>
   
-  📰 **My Portfolios** 📰
+  📰 **포트폴리오** 📰
   ------
   
   <a href="http://ggm.gondr.net/user/profile/25"><img src="https://img.shields.io/badge/📰Portfolio-222324?style=for-the-badge"></a>
