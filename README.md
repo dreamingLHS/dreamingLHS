@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F781F3&height=150&section=header&text=Welcome%20To%20ISALA's%20GitHub&fontSize=45&animation=twinkling)
 
 <div align="center"> 
-  <a href="/docs/README_KR.md">한국어</a>
+  <a href="README_KR.md">한국어</a>
   .
-  <a href="/docs/README_EN.md">english</a>
+  <a href="README_EN.md">english</a>
 
   💻 **Full of imagination Game designer** 💻 
 ======
