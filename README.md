@@ -25,7 +25,7 @@
   
   <a href="http://ggm.gondr.net/user/profile/25"><img src="https://img.shields.io/badge/📰Portfolio-222324?style=for-the-badge"></a>
   
-  <a href="(https://isala.notion.site/f610a9885512430cad346cb2cfeb2b52)"><img src="https://img.shields.io/badge/📰Notion-222324?style=for-the-badge"></a>
+  <a href="(https://isala.notion.site/f610a9885512430cad346cb2cfeb2b52)"><img src="https://img.shields.io/badge/📓Notion-222324?style=for-the-badge"></a>
   
    **GitHub** 
   ------
